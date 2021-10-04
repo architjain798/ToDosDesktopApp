@@ -1,0 +1,14 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "todos app using electron",
+  "main": "index.js",
+  "scripts": {
+    "electron":"electron ."
+  },
+  "author": "archit jain",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^14.0.1"
+  }
+}
